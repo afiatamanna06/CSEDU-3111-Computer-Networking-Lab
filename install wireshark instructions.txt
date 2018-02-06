@@ -1,0 +1,6 @@
+sudo apt-get install wireshark libcap2-bin
+sudo shgrp wireshark /usr/bin/dumpcap
+sudo chgrp wireshark /usr/bin/dumpcap
+sudo chmod 755 /usr/bin/dumpcap
+sudo chown root /usr/bin/dumpcap
+sudo chmod u+s /usr/bin/dumpcap
