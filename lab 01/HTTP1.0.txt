@@ -1,0 +1,1878 @@
+ telnet www.cse.du.ac.bd 80
+Trying 172.16.1.50...
+Connected to www.cse.du.ac.bd.
+Escape character is '^]'.
+GET / HTTP/1.0  
+host:www.cse.du.ac.bd
+
+HTTP/1.0 200 OK
+Date: Mon, 05 Feb 2018 10:23:17 GMT
+Server: Apache/2.2.15 (Oracle)
+X-Powered-By: PHP/5.3.3
+Set-Cookie: PHPSESSID=iugloetj1p61g92e3mqj1fm8n0; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Link: <http://www.cse.du.ac.bd/wp-json/>; rel="https://api.w.org/"
+Link: <http://www.cse.du.ac.bd/>; rel=shortlink
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta name="google-site-verification" content="e52yzwc53V91mxcIV8Hp_1IoPf3opTeJGJ7efwRdtXM"/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+	<title>CSEDU | Department of Computer Science and Engineering</title>	
+	
+	
+	<!-- Mobile Specific Metas
+  	================================================== -->	
+			 
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />	
+		
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://www.cse.du.ac.bd/xmlrpc.php" />
+	<link rel="shortcut icon" href="http://www.cse.du.ac.bd/wp-content/uploads/2015/05/favicon_square.png" type="image/gif" />
+	<!-- Child Theme Support -->	
+	<link rel="stylesheet" type="text/css" href="http://www.cse.du.ac.bd/wp-content/themes/campus/style.css" />
+
+		
+<link rel="alternate" type="application/rss+xml" title="CSEDU &raquo; Feed" href="http://www.cse.du.ac.bd/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CSEDU &raquo; Comments Feed" href="http://www.cse.du.ac.bd/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="CSEDU &raquo; iCal Feed" href="http://www.cse.du.ac.bd/events/?ical=1" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.cse.du.ac.bd\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.14"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='zilla-shortcodes-css'  href='http://www.cse.du.ac.bd/wp-content/plugins/zilla-shortcodes/shortcodes.css?ver=4.4.14' type='text/css' media='all' />
+<link rel='stylesheet' id='Base-css'  href='http://www.cse.du.ac.bd/wp-content/themes/campus/assets/stylesheets/base.css?ver=4.4.14' type='text/css' media='all' />
+<link rel='stylesheet' id='skeleton-css'  href='http://www.cse.du.ac.bd/wp-content/themes/campus/assets/stylesheets/skeleton.css?ver=4.4.14' type='text/css' media='all' />
+<link rel='stylesheet' id='ResponsiveMenu-css'  href='http://www.cse.du.ac.bd/wp-content/themes/campus/assets/javascripts/mobilemenu/css/component.css?ver=4.4.14' type='text/css' media='all' />
+<link rel='stylesheet' id='comments-css'  href='http://www.cse.du.ac.bd/wp-content/themes/campus/assets/stylesheets/comments.css?ver=4.4.14' type='text/css' media='all' />
+<link rel='stylesheet' id='FontAwesome-css'  href='http://www.cse.du.ac.bd/wp-content/themes/campus/assets/stylesheets/fonts/font-awesome.css?ver=4.4.14' type='text/css' media='all' />
+<link rel='stylesheet' id='Foundation Icons-css'  href='http://www.cse.du.ac.bd/wp-content/themes/campus/assets/stylesheets/fonts/general_foundicons.css?ver=4.4.14' type='text/css' media='all' />
+<link rel='stylesheet' id='Foundation Social Icons-css'  href='http://www.cse.du.ac.bd/wp-content/themes/campus/assets/stylesheets/fonts/social_foundicons.css?ver=4.4.14' type='text/css' media='all' />
+<link rel='stylesheet' id='superfish-css'  href='http://www.cse.du.ac.bd/wp-content/themes/campus/assets/stylesheets/superfish.css?ver=4.4.14' type='text/css' media='all' />
+<link rel='stylesheet' id='base-theme-stylesheet-css'  href='http://www.cse.du.ac.bd/wp-content/themes/campus/assets/stylesheets/styles.css?ver=4.4.14' type='text/css' media='all' />
+<link rel='stylesheet' id='type-stylesheet-css'  href='http://www.cse.du.ac.bd/wp-content/themes/campus/assets/stylesheets/typography.css?ver=4.4.14' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-stylesheet-css'  href='http://www.cse.du.ac.bd/wp-content/themes/campus/assets/stylesheets/theme.css?ver=4.4.14' type='text/css' media='all' />
+<link rel='stylesheet' id='base-stylesheet-css'  href='http://www.cse.du.ac.bd/wp-content/themes/campus/style.css?ver=4.4.14' type='text/css' media='all' />
+<link rel='stylesheet' id='dynamic-stylesheet-css'  href='http://www.cse.du.ac.bd/wp-content/themes/campus/dynamic.css?ver=4.4.14' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.cse.du.ac.bd/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.cse.du.ac.bd/wp-content/plugins/revslider/rs-plugin/css/settings.css?ver=4.6.5' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,700);.tp-caption a{color:#ffffff;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}.tp-caption a{color:#ffffff;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}.tp-caption a{color:#ffffff;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}.tp-caption a{color:#ffffff; font-size:100px;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}.tp-caption a{color:#ffffff;font-size:300%;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='default-icon-styles-css'  href='http://www.cse.du.ac.bd/wp-content/plugins/svg-vector-icon-plugin/public/../admin/css/wordpress-svg-icon-plugin-style.min.css?ver=4.4.14' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://www.cse.du.ac.bd/wp-content/plugins/js_composer/assets/css/js_composer.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='ot-dynamic-mdnw-dynamic-css-css'  href='http://www.cse.du.ac.bd/wp-content/themes/campus/dynamic.css?ver=2.5.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-content/plugins/zilla-shortcodes/js/zilla-shortcodes-lib.js?ver=4.4.14'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-content/themes/campus/assets/javascripts/skeleton-key-prescripts.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_login_object = {"ajaxurl":"http:\/\/www.cse.du.ac.bd\/wp-admin\/admin-ajax.php","redirecturl":"http:\/\/www.cse.du.ac.bd","loadingmessage":"Sending user info, please wait..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-content/themes/campus/ajax-login-script.js?ver=4.4.14'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?ver=4.6.5'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=4.6.5'></script>
+<link rel='https://api.w.org/' href='http://www.cse.du.ac.bd/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.cse.du.ac.bd/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.cse.du.ac.bd/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.14" />
+<link rel="canonical" href="http://www.cse.du.ac.bd/" />
+<link rel='shortlink' href='http://www.cse.du.ac.bd/' />
+		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				var ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "";
+
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = '46a2e9e1ce';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"http://www.cse.du.ac.bd/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;			 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				};
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+						}
+					}
+				},30);
+			});
+		</script>
+		<!--[if IE 8]>
+<style type="text/css">
+	.module-img img{width: 100%;}
+	
+	hiddenStyle: { opacity: 0.25 }
+	.isotope-item {
+	  z-index: 2;
+	}	
+	.isotope-hidden.isotope-item {
+	  pointer-events: none;
+	  z-index: 1;
+	}
+	hiddenStyle: $.browser.msie ? 
+	  { opacity: 0.5, left: -2000 } : // IE
+	  { opacity: 0, scale: 0.001 }
+</style>
+<![endif]-->
+
+
+<style type="text/css">
+
+
+html,
+body, 
+#section-tophat,
+#section-header,
+#section-page-caption,
+#section-content,
+#section-footer,
+#section-sub-footer{
+	background-repeat: repeat;
+ 	background-position: top center;
+ 	background-attachment: scroll;
+}
+
+
+
+
+ 		#section-tophat {
+ 			background-image: url('');
+ 			background-color: #00254e;
+			}
+
+
+ 		#section-navigation, .sf-menu ul li, .sf-menu ul li li {
+ 			background-image: none;
+ 			background-color: #00254e;
+			}
+
+
+	
+	
+	
+
+	
+	
+
+ 		#section-footer {
+ 			background-image: url('');
+ 			background-color: #00254e;
+			}
+
+
+
+
+	
+	
+	/* Colored Text */
+	a, a span, 
+	#section-tophat a, 
+	#section-footer a,
+	#section-flagdropdown a,
+	.highlight-row h2 a,
+	.customisable, .customisable:link, .customisable:visited, .customisable:hover, .customisable:focus, .customisable:active, .customisable-highlight:hover, .customisable-highlight:focus, a:hover .customisable-highlight, a:focus .customisable-highlight
+	{	
+		color: #ecb200; 
+	}
+	
+	/* White Text / Colored BG */
+	.sf-menu li.current-menu-item,
+	.wpb_wrapper .wpb_content_element .wpb_wrapper .wpb_tabs_nav li.ui-tabs-active, 
+	.wpb_wrapper .wpb_content_element .wpb_wrapper .wpb_tabs_nav li:hover,
+	.wpb_carousel .prev, .wpb_carousel .next,
+	.read_more_button, 
+	.widget_categories li, 
+	.widget_archive li,
+	#section-footer .widget_archive li a,
+	#section-footer .widget_categories li a,
+	#section-footer a[rel~="category"],
+	a[rel~="category"],
+	.tagcloud a,
+	.sf-menu > li:hover,
+	ul.sub-menu a:hover,
+	.button:hover,
+	.vc_bar,
+	.rev_slider .tp-button
+	/*.flex-control-paging li a.flex-active, .flex-control-paging li a:hover*/ {	
+		background-color: #ecb200 !important; 
+		color: white !important;	
+	}
+	
+	/* Colored BG Elements that need forced white color */
+	.sf-menu > li:hover > a:hover,
+	.sf-menu > li:hover span,
+	.sf-menu > li:hover strong,
+	.sf-menu li li:hover> a,
+	.sf-menu.light ul li:hover > a,
+	.widget_categories li a,
+	.widget_categories li,
+	.widget_archives li a{	
+		color: white !important;
+	}
+	
+	/* Border Elements */
+	#section-footer {
+		border-top: 2px solid #ecb200;	
+	}
+	/*.sf-menu li li:hover{	
+		border-left: 1px solid #ecb200; 
+		border-right: 1px solid #ecb200; 
+	}*/
+
+	/*  - Navigation Highlights -  */
+	#section-navigation{
+		border-bottom: 5px solid #ecb200;
+	}
+	.woocommerce-page .page-title,
+	hr.page-title-hr, 
+	.wpb_tabs_nav, 
+	.wpb_wrapper .wpb_tabs hr, 
+	.wpb_wrapper .wpb_tour hr, 
+	#section-flagdropdown hr,
+	.slidingDiv,
+	#section-footer hr {
+		border-bottom-color: #ecb200 !important;
+	}
+	.sf-arrows .sf-with-ul:after {
+		border-top-color: #ecb200;
+	}
+
+	/*  - WooCommerce -  */
+	.button.add_to_cart_button.product_type_simple:hover {
+		color: #ecb200 !important;
+	}
+	.woocommerce .woocommerce-message:before, .woocommerce-page .woocommerce-message:before, 
+	.woocommerce span.onsale, .woocommerce-page span.onsale {
+		background-color: #ecb200 !important;
+	}
+	.woocommerce .woocommerce-message, .woocommerce-page .woocommerce-message {
+		border-top-color: #ecb200 !important;
+	}
+	.woocommerce-page .page-title {
+		border-bottom-color: #ecb200 !important;
+	}
+	
+
+
+	.sidebar .widget:first-child .widget-title{
+		border-bottom-color: #00254e !important;
+	}
+
+	.highlight-row, 
+	.module-row, 
+	.wpb_wrapper .wpb_accordion_wrapper .wpb_accordion_header, 
+	.wpb_wrapper .wpb_wrapper.wpb_tour_tabs_wrapper .wpb_tab, 
+	.wpb_wrapper .wpb_content_element .wpb_wrapper .wpb_tabs_nav li,
+
+	.wpb_wrapper .wpb_content_element .wpb_tabs_nav li,
+	.wpb_wrapper .wpb_accordion_wrapper .wpb_accordion_header, 
+	.wpb_wrapper .wpb_tour_tabs_wrapper .wpb_tab {
+		background-color: #00254e !important;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+ 		h1, h2, h3, h4, h5,
+ 		h1 a, h2 a, h3 a, h4 a, h5 a,
+ 		h1.page-title a, h1.entry-title a,
+ 		.module-meta h3 a {
+ 			color: #00254e !important;
+			}
+
+ 		#section-footer h1, #section-footer h2, #section-footer h3, #section-footer h4, #section-footer h5,
+ 		#section-footer h1 a, #section-footer h2 a, #section-footer h3 a, #section-footer h4 a, #section-footer h5 a {
+ 			color: #ecb200 !important;
+			}
+
+
+
+
+ 
+/* .meta-string .format-icon, .meta-string .bullet:nth-child(2) {
+    display: none !important;
+} */
+
+
+
+/*
+*/
+
+	.site-title-wrapper {
+	    float: left;
+	    text-align: left;
+	}
+	#menu{clear:both; margin: 20px auto 0; float: none; text-align: center;}
+	/* #menu{float:right;} */
+
+	
+
+
+
+
+
+	h1.page-title, .page-title-hr{display: none;}
+
+
+
+
+
+
+
+
+
+	/*  - STANDARD - S/C/P -  */
+	.page-template-template-blog-php .secondary-sidebar {float: left;}
+
+
+	/*  - CONTENT LEFT - C/P/S  -  */
+	.page-template-default .secondary-sidebar {float: right;}
+	.page-template-default .sidebar {float: right;}
+
+
+
+
+	body{font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;}
+
+
+
+.normal-width .content > div {
+  width: 100%;
+}
+
+/*  - TEASER POST GRID/CAROUSEL  -  
+.post-title {
+  display: inline-block;
+  margin-left: 10px;
+  margin-top: 2px;
+}
+.post-thumb {
+  float: left;
+}
+.entry-content {
+  float: left;
+}
+.wpb_carousel .prev {
+  left: 10px;
+  top: 90px !important;
+  background-color: rgba(55, 55, 55, 0.9) !important;
+  border-radius: 15px;
+  width: 10px;
+}
+.wpb_carousel .next {
+  right: 15px;
+  top: 90px !important;
+  background-color: rgba(55, 55, 55, 0.9) !important;
+  border-radius: 15px;
+}
+.wpb_carousel .prev, .wpb_carousel .next {
+  display: none;
+}
+.wpb_teaser_grid:hover a.prev, .wpb_teaser_grid:hover a.next {
+  display: block;
+}
+*/
+
+/*  - ORIGINAL CSS -  */
+
+#section-pre-footer {
+  margin-top: -30px;
+}
+.category_row h3 {
+  color: #777777;
+}
+.module-row {
+  background-color: #E0E0E0;
+  padding-bottom: 0;
+  padding-left: 25px;
+  padding-right: 0;
+  padding-top: 25px;
+  border-radius: 5px;
+}
+
+.module-row button{float: right; margin-right: 20px;}
+
+.vc_span8.module-container.wpb_column.column_container {
+  margin-top: 7px;
+}
+#gnews-just-better-2 a {
+  color: #EEEEEE;
+}
+.wpcf7-form-control.wpcf7-submit {
+  padding: 4px 15px;
+}
+a:visited{
+  color: #ECB200;
+}
+.hiddenSlide
+{
+  visibility:hidden;
+  opacity:0;
+  height:0px;
+  transition:0s;
+  vertical-align:top;
+  transform:translateX(100%);
+}
+.showSlide
+{
+  visibility:visible;
+  opacity:1;
+  transition:1s;
+  left:0;
+  vertical-align:top;
+  transform:translateX(0%);
+}
+
+.vc_align_left .vc_single_image-wrapper {
+    display: inline !important;
+} 
+
+</style>
+
+
+
+
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.cse.du.ac.bd/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.cse.du.ac.bd/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]--><style type="text/css" media="screen">body{position:relative}#dynamic-to-top{display:none;overflow:hidden;width:auto;z-index:90;position:fixed;top:20px;right:20px;bottom:auto;left:auto;font-family:sans-serif;font-size:1em;color:#fff;text-decoration:none;text-shadow:0 1px 0 #333;font-weight:bold;padding:17px 16px;border:1px solid #000;background:#111;-webkit-background-origin:border;-moz-background-origin:border;-icab-background-origin:border;-khtml-background-origin:border;-o-background-origin:border;background-origin:border;-webkit-background-clip:padding-box;-moz-background-clip:padding-box;-icab-background-clip:padding-box;-khtml-background-clip:padding-box;-o-background-clip:padding-box;background-clip:padding-box;-webkit-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-ms-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-moz-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-o-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-khtml-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-icab-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-webkit-border-radius:30px;-moz-border-radius:30px;-icab-border-radius:30px;-khtml-border-radius:30px;border-radius:30px}#dynamic-to-top:hover{background:#4d5858;background:#111 -webkit-gradient( linear, 0% 0%, 0% 100%, from( rgba( 255, 255, 255, .2 ) ), to( rgba( 0, 0, 0, 0 ) ) );background:#111 -webkit-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#111 -khtml-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#111 -moz-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#111 -o-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#111 -ms-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#111 -icab-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#111 linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );cursor:pointer}#dynamic-to-top:active{background:#111;background:#111 -webkit-gradient( linear, 0% 0%, 0% 100%, from( rgba( 0, 0, 0, .3 ) ), to( rgba( 0, 0, 0, 0 ) ) );background:#111 -webkit-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#111 -moz-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#111 -khtml-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#111 -o-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#111 -ms-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#111 -icab-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#111 linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) )}#dynamic-to-top,#dynamic-to-top:active,#dynamic-to-top:focus,#dynamic-to-top:hover{outline:none}#dynamic-to-top span{display:block;overflow:hidden;width:14px;height:12px;background:url( http://www.cse.du.ac.bd/wp-content/plugins/dynamic-to-top/css/images/up.png )no-repeat center center}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1439318855573{margin-right: 25px !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<!-- Start the Markup ================================================== -->
+<body class="home page page-id-5218 page-template-default wpb-js-composer js-comp-ver-4.7.4 vc_responsive" >
+     <form id="login" action="login" method="post" class="loginForm" style="opacity:.7;">
+        <a class="close" href="" style="float:right;">[close]</a><br/>
+        <h1 style="width:100%;text-align:center;">Login</h1>
+	<br/>
+        <p class="status"></p>
+	<div style="text-align:center;">
+        <label for="username" style="display:inline-block; width:30%;"><b>Primary Email</b></label>
+        <input id="username" type="text" name="username">
+	<br/>
+        <label for="password" style="display:inline-block; width:30%; margin-top:10px; margin-bottom:10px;"><b>Password</b></label>
+        <input id="password" type="password" name="password" >
+	<br/>
+	<input id="rememberme" style="margin-left:42px;" type="checkbox" name="rememberme">
+        <label style="display:inline-block;" >Remember me</label>
+	<br/>
+	</div>
+        <div style="text-align:center;margin-top:10px;"><input class="submit_button" type="submit" value="Log In" name="submit" style="width: 30%;padding: 4px;border-radius: 3px;font-weight: bold;"></div>
+        <a class="lost" style="float:right;" href="http://www.cse.du.ac.bd/password-recovery">Forgot password?</a>
+        <input type="hidden" id="security" name="security" value="8f69ef5249" /><input type="hidden" name="_wp_http_referer" value="/" />    </form>
+<form id="logout" action="logout" method="post" class="loginForm" style="opacity:.7;">
+        <a class="close" href="" style="float:right;">[close]</a><br/>
+	<p class="status"></p>
+        <h3 style="width:100%;text-align:center;margin-bottom:50px;">Are you sure you want to logout?</h3>
+
+        	</div>
+        <div style="text-align:center;margin-top:10px;"><input class="submit_button" type="button" value="Yes" id="logoutyes" name="Yes" style="width: 30%;padding: 4px;border-radius: 3px;font-weight: bold;"><input class="submit_button" type="button" value="No" name="No" id = "logoutno" style="width: 30%;padding: 4px;border-radius: 3px;font-weight: bold; margin-left:20px"></div>
+    </form>
+	<!-- Super Container Flag Dropdown -->
+		
+	<!-- /Flag Dropdown -->
+
+	<!-- Top Hat -->
+<div class="" id="section-tophat">
+
+	<!-- 960 Container -->
+	<div class="container">			
+		
+		<div class="sixteen columns">
+					
+			<div class="columns social alpha">
+							
+					<!-- SOCIAL MEDIA + SEARCH -->
+<div class="search">
+	<form method="post" action="/index.php">
+		<fieldset>
+			<input type="text" class="field" name="s" style="float: left;" />
+			<input type="submit" class="button" name="send" value="Search" />
+		</fieldset>
+	</form>
+</div>
+<!-- /SOCIAL MEDIA + SEARCH -->							
+				<ul class="social">
+					<li><a target="_blank" href="/external-link/#facebook"><img src="http://www.cse.du.ac.bd/wp-content/themes/campus/assets/images/theme/social-icons/obox/facebook-32.png" alt="facebook" title="Facebook"></a></li>					
+					<li><a target="_blank" href="/external-link/#linkedin"><img src="http://www.cse.du.ac.bd/wp-content/themes/campus/assets/images/theme/social-icons/obox/linkedin-32.png" alt="linkedin" title="LinkedIn"></a></li>						 
+					<li><a target="_blank" href="/external-link/#yahoo"><img src="http://www.cse.du.ac.bd/wp-content/uploads/2015/05/yahoo.png" alt="Yahoo"></a></li>	
+				</ul>
+			</div>						
+			
+			<div class="tagline omega">
+				
+				<div style="display:inline-block;">		</div>
+				
+				<div id="myLoginButton" style="display:inline-block;"><a href="#" id="myLogin" class="myLoginButton"><img width="92px" height="auto" src="http://www.cse.du.ac.bd/wp-content/uploads/2015/05/login.png"></a></div>				
+			</div>	
+
+			<!-- Banner -->
+				
+			<!-- /End Banner -->
+			
+		</div>
+		
+	</div>
+	
+</div>
+
+<!-- Header -->
+<header>
+
+	<!-- Super Container for Logo -->
+	<div class="super-container full-width" id="section-header">
+		<div class="container">
+			<div class="sixteen columns">
+				 
+				<!-- Branding -->
+				<div class="site-title-wrapper">
+					<a href="http://www.cse.du.ac.bd/" title="CSEDU">
+						<h1 class="site-title">		<img id="logotype" src="http://www.cse.du.ac.bd/wp-content/uploads/2015/05/header2.3.1-1.png" alt="CSEDU" />
+	        				</h1>
+		         							</a>
+				</div>
+				<!-- /End Branding -->
+
+			</div>
+		</div>
+	</div>
+	<!-- /End Super Container for Logo -->
+
+	<!-- Super Container for Navigation -->
+	<div class="super-container full-width" id="section-navigation">
+		<div class="container">				
+			<!-- DESKTOP MENU -->
+<div class="sixteen columns" id="menu"> 
+				
+	<div class="navigation">
+		
+		<!-- DEFAULT NAVIGATION -->
+		<ul id="menu-csedu-menu" class="sf-menu"><li title="Home" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5218 current_page_item"><a href="http://www.cse.du.ac.bd/"><strong>Home</strong></a></li>
+<li title="About" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><strong>About</strong></a>
+<ul class="sub-menu">
+	<li title="Welcome to CSEDU" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/about/">Welcome to CSEDU</a></li>
+	<li title="History of CSEDU" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/about/#historyofcsedu">History of CSEDU</a></li>
+	<li title="Why CSEDU?" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/about/#whyincsedu">Why CSEDU?</a></li>
+	<li title="Vision of CSEDU" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/about/#visionofcsedu">Vision of CSEDU</a></li>
+	<li title="Getting Around CSEDU" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/getting-around-csedu/">Getting Around CSEDU</a></li>
+	<li title="Achievements" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/achievements/">Achievements</a></li>
+	<li title="Resources" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/resources/">Resources</a></li>
+	<li title="Downloads" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#">Downloads</a>
+	<ul class="sub-menu">
+		<li title="Content Request Form" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/content-request-form/">Content Request Form</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li title="Academic" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><strong>Academic</strong></a>
+<ul class="sub-menu">
+	<li title="Programs" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#">Programs</a>
+	<ul class="sub-menu">
+		<li title="Undergraduate Program" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/undergraduate-program/">Undergraduate Program</a></li>
+		<li title="Graduate Program" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/graduate-program/">Graduate Program</a></li>
+		<li title="MPhil Program" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/mphil-program/">MPhil Program</a></li>
+		<li title="PhD Program" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/phd-program/">PhD Program</a></li>
+		<li title="3D Animation" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/animation-lab/">3D Animation</a></li>
+		<li title="Other Program" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/other-program/">Other Program</a></li>
+	</ul>
+</li>
+	<li title="Admission" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/admission/">Admission</a></li>
+	<li title="Curriculum" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="http://www.cse.du.ac.bd/curriculum">Curriculum</a>
+	<ul class="sub-menu">
+		<li title="Undergraduate Program Curriculum" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.cse.du.ac.bd/curriculum#BSC">Undergraduate Program Curriculum</a></li>
+		<li title="Graduate Program Curriculum" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.cse.du.ac.bd/curriculum#MS">Graduate Program Curriculum</a></li>
+		<li title="MPhil Program Curriculum" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.cse.du.ac.bd/curriculum#MPHIL">MPhil Program Curriculum</a></li>
+		<li title="PhD Program Curriculum" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.cse.du.ac.bd/curriculum#PHD">PhD Program Curriculum</a></li>
+	</ul>
+</li>
+	<li title="Academic Calendar" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.cse.du.ac.bd/wp-content/uploads/2018/01/Academic-Calendar-2018-1st-Semester-.pdf">Academic Calendar</a></li>
+</ul>
+</li>
+<li title="People" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><strong>People</strong></a>
+<ul class="sub-menu">
+	<li title="Faculty" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#">Faculty</a>
+	<ul class="sub-menu">
+		<li title="At a Glance" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/faculty-list-summary/">At a Glance</a></li>
+		<li title="Faculty Members in Service" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/faculty/?faculty_status=1">Faculty Members in Service</a></li>
+		<li title="Faculty Members on Study Leave" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/faculty/?faculty_status=2">Faculty Members on Study Leave</a></li>
+		<li title="Faculty Members on Leave" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/faculty/?faculty_status=3">Faculty Members on Leave</a></li>
+		<li title="Faculty Members in C&D Committee" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/faculty/?faculty_status=10">Faculty Members in C&#038;D Committee</a></li>
+		<li title="Former Faculty Members" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/faculty/?faculty_status=4">Former Faculty Members</a></li>
+	</ul>
+</li>
+	<li title="Staff" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/staff/">Staff</a></li>
+</ul>
+</li>
+<li title="Research" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><strong>Research</strong></a>
+<ul class="sub-menu">
+	<li title="Research Groups" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/research-groups/">Research Groups</a></li>
+	<li title="Publications" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/publications/">Publications</a></li>
+	<li title="Search | Research Interest" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/faculty-list-research-interest/">Search | Research Interest</a></li>
+</ul>
+</li>
+<li title="Announcement" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><strong>Announcement</strong></a>
+<ul class="sub-menu">
+	<li title="Notice Board" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/notice-board/">Notice Board</a></li>
+	<li title="News and Events" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/news-and-events/">News and Events</a></li>
+	<li title="Honor Board" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/honor-board/">Honor Board</a></li>
+</ul>
+</li>
+<li title="Alumni" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/alumni/"><strong>Alumni</strong></a></li>
+<li title="Sitemap" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/sitemap/"><strong>Sitemap</strong></a></li>
+</ul>		<!-- /DEFAULT NAVIGATION -->
+					 
+	</div>	
+	
+</div>		 
+<!-- /DESKTOP MENU -->
+
+<!-- MOBILE MENU -->
+<div id="responsive-nav" class="dl-menuwrapper">
+	<button>Open Menu</button>
+			
+	<ul id="menu-csedu-menu-1" class="dl-menu"><li title="Home" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5218 current_page_item"><a href="http://www.cse.du.ac.bd/"><div class="top sans">Home</div><div class="bottom"></div></a></li>
+<li title="About" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><div class="top sans">About</div><div class="bottom"></div></a>
+<ul class="dl-submenu level-0"><li class="dl-back"><a href="#">Back</a></li>
+	<li title="Welcome to CSEDU" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/about/">Welcome to CSEDU</a></li>
+	<li title="History of CSEDU" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/about/#historyofcsedu">History of CSEDU</a></li>
+	<li title="Why CSEDU?" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/about/#whyincsedu">Why CSEDU?</a></li>
+	<li title="Vision of CSEDU" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/about/#visionofcsedu">Vision of CSEDU</a></li>
+	<li title="Getting Around CSEDU" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/getting-around-csedu/">Getting Around CSEDU</a></li>
+	<li title="Achievements" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/achievements/">Achievements</a></li>
+	<li title="Resources" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/resources/">Resources</a></li>
+	<li title="Downloads" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#">Downloads</a>
+	<ul class="dl-submenu level-1"><li class="dl-back"><a href="#">Back</a></li>
+		<li title="Content Request Form" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/content-request-form/">Content Request Form</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li title="Academic" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><div class="top sans">Academic</div><div class="bottom"></div></a>
+<ul class="dl-submenu level-0"><li class="dl-back"><a href="#">Back</a></li>
+	<li title="Programs" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#">Programs</a>
+	<ul class="dl-submenu level-1"><li class="dl-back"><a href="#">Back</a></li>
+		<li title="Undergraduate Program" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/undergraduate-program/">Undergraduate Program</a></li>
+		<li title="Graduate Program" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/graduate-program/">Graduate Program</a></li>
+		<li title="MPhil Program" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/mphil-program/">MPhil Program</a></li>
+		<li title="PhD Program" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/phd-program/">PhD Program</a></li>
+		<li title="3D Animation" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/animation-lab/">3D Animation</a></li>
+		<li title="Other Program" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/other-program/">Other Program</a></li>
+	</ul>
+</li>
+	<li title="Admission" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/admission/">Admission</a></li>
+	<li title="Curriculum" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="http://www.cse.du.ac.bd/curriculum">Curriculum</a>
+	<ul class="dl-submenu level-1"><li class="dl-back"><a href="#">Back</a></li>
+		<li title="Undergraduate Program Curriculum" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.cse.du.ac.bd/curriculum#BSC">Undergraduate Program Curriculum</a></li>
+		<li title="Graduate Program Curriculum" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.cse.du.ac.bd/curriculum#MS">Graduate Program Curriculum</a></li>
+		<li title="MPhil Program Curriculum" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.cse.du.ac.bd/curriculum#MPHIL">MPhil Program Curriculum</a></li>
+		<li title="PhD Program Curriculum" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.cse.du.ac.bd/curriculum#PHD">PhD Program Curriculum</a></li>
+	</ul>
+</li>
+	<li title="Academic Calendar" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.cse.du.ac.bd/wp-content/uploads/2018/01/Academic-Calendar-2018-1st-Semester-.pdf">Academic Calendar</a></li>
+</ul>
+</li>
+<li title="People" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><div class="top sans">People</div><div class="bottom"></div></a>
+<ul class="dl-submenu level-0"><li class="dl-back"><a href="#">Back</a></li>
+	<li title="Faculty" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#">Faculty</a>
+	<ul class="dl-submenu level-1"><li class="dl-back"><a href="#">Back</a></li>
+		<li title="At a Glance" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/faculty-list-summary/">At a Glance</a></li>
+		<li title="Faculty Members in Service" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/faculty/?faculty_status=1">Faculty Members in Service</a></li>
+		<li title="Faculty Members on Study Leave" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/faculty/?faculty_status=2">Faculty Members on Study Leave</a></li>
+		<li title="Faculty Members on Leave" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/faculty/?faculty_status=3">Faculty Members on Leave</a></li>
+		<li title="Faculty Members in C&D Committee" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/faculty/?faculty_status=10">Faculty Members in C&#038;D Committee</a></li>
+		<li title="Former Faculty Members" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/faculty/?faculty_status=4">Former Faculty Members</a></li>
+	</ul>
+</li>
+	<li title="Staff" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/staff/">Staff</a></li>
+</ul>
+</li>
+<li title="Research" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><div class="top sans">Research</div><div class="bottom"></div></a>
+<ul class="dl-submenu level-0"><li class="dl-back"><a href="#">Back</a></li>
+	<li title="Research Groups" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/research-groups/">Research Groups</a></li>
+	<li title="Publications" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/publications/">Publications</a></li>
+	<li title="Search | Research Interest" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/faculty-list-research-interest/">Search | Research Interest</a></li>
+</ul>
+</li>
+<li title="Announcement" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><div class="top sans">Announcement</div><div class="bottom"></div></a>
+<ul class="dl-submenu level-0"><li class="dl-back"><a href="#">Back</a></li>
+	<li title="Notice Board" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/notice-board/">Notice Board</a></li>
+	<li title="News and Events" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/news-and-events/">News and Events</a></li>
+	<li title="Honor Board" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/honor-board/">Honor Board</a></li>
+</ul>
+</li>
+<li title="Alumni" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/alumni/"><div class="top sans">Alumni</div><div class="bottom"></div></a></li>
+<li title="Sitemap" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cse.du.ac.bd/sitemap/"><div class="top sans">Sitemap</div><div class="bottom"></div></a></li>
+</ul>
+</div>
+<!-- /END MOBILE MENU -->	
+		</div>
+	</div>
+	<!-- /End Super Container for Navigation -->			
+
+
+</header>
+<!-- /End Header -->
+
+
+
+	<div class="super-container full-width" id="section-slider">
+					<style type='text/css'>
+				#rev_slider_1_1, #rev_slider_1_1_wrapper { width:1120px; height:400px;}
+			
+			   @media only screen and (min-width: 1800px)  {
+			 		  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:1120px; height:400px;}
+			   }
+
+			
+			   @media only screen and (min-width: 1200px) and (max-width: 1799px) {
+			 		  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:1120px; height:400px;}
+			   }
+
+			
+			   @media only screen and (min-width: 960px) and (max-width: 1199px) {
+			 		  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:960px; height:342px;}
+			   }
+
+			
+			   @media only screen and (min-width: 580px) and (max-width: 959px) {
+			 		  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:580px; height:207px;}
+			   }
+
+			
+			   @media only screen and (min-width: 400px) and (max-width: 579px) {
+			 		  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:350px; height:125px;}
+			   }
+
+			
+			   @media only screen and (min-width: 350px) and (max-width: 399px) {
+			 		  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:300px; height:107px;}
+			   }
+
+			
+			   @media only screen and (min-width: 0px) and (max-width: 349px) {
+			 		  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:280px; height:100px;}
+			   }
+
+			</style>
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper" style="margin:0px auto;background-color:#ffffff;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 4.6.5 responsitive mode -->
+	<div id="rev_slider_1_1" class="rev_slider" style="display:none;">
+<ul>	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://www.cse.du.ac.bd/wp-content/uploads/2015/05/6.jpg"  alt="6"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://www.cse.du.ac.bd/wp-content/uploads/2015/05/3.jpg"  alt="3"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://www.cse.du.ac.bd/wp-content/uploads/2015/05/dept_image.jpg"  alt="dept_image"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://www.cse.du.ac.bd/wp-content/uploads/2015/05/9.jpg"  alt="9"  data-bgposition="0% 20%" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://www.cse.du.ac.bd/wp-content/uploads/2015/05/12.jpg"  alt="12"  data-bgposition="0% 25%" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-link="/message-from-the-chairperson/"   data-slideindex="back" data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://www.cse.du.ac.bd/wp-content/uploads/2015/05/chairman_message_banner-Updated.jpg"  alt="chairman_message_banner-Updated"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption newbigwhite skewfromleft tp-resizeme" 
+			 data-x="30" 
+			 data-y="78"  
+			data-speed="300" 
+			data-start="500" 
+			data-easing="Linear.easeNone" 
+			data-splitin="chars" 
+			data-splitout="none" 
+			data-elementdelay="0.05" 
+			data-endelementdelay="0.1" 
+			 data-endspeed="300" 
+
+			style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Message from the Chairperson 
+		</div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://www.cse.du.ac.bd/wp-content/uploads/2015/05/11.jpg"  alt="11"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+</ul>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+			
+
+			<style scoped>.tp-caption.newbigwhite,.newbigwhite{font-size:40px;line-height:36px;font-weight:700;font-family:"Times New Roman",Times,serif;color:rgb(255,255,255);text-decoration:none;padding:1px 4px 0px;text-shadow:none;margin:0px;letter-spacing:-1.5px;background-color:transparent;border-width:0px;border-color:rgb(255,255,255);border-style:none}</style>
+
+			<script type="text/javascript">
+
+				/******************************************
+					-	PREPARE PLACEHOLDER FOR SLIDER	-
+				******************************************/
+				
+
+				var setREVStartSize = function() {
+					var	tpopt = new Object();
+						tpopt.startwidth = 1120;
+						tpopt.startheight = 400;
+						tpopt.container = jQuery('#rev_slider_1_1');
+						tpopt.fullScreen = "off";
+						tpopt.forceFullWidth="off";
+
+					tpopt.container.closest(".rev_slider_wrapper").css({height:tpopt.container.height()});tpopt.width=parseInt(tpopt.container.width(),0);tpopt.height=parseInt(tpopt.container.height(),0);tpopt.bw=tpopt.width/tpopt.startwidth;tpopt.bh=tpopt.height/tpopt.startheight;if(tpopt.bh>tpopt.bw)tpopt.bh=tpopt.bw;if(tpopt.bh<tpopt.bw)tpopt.bw=tpopt.bh;if(tpopt.bw<tpopt.bh)tpopt.bh=tpopt.bw;if(tpopt.bh>1){tpopt.bw=1;tpopt.bh=1}if(tpopt.bw>1){tpopt.bw=1;tpopt.bh=1}tpopt.height=Math.round(tpopt.startheight*(tpopt.width/tpopt.startwidth));if(tpopt.height>tpopt.startheight&&tpopt.autoHeight!="on")tpopt.height=tpopt.startheight;if(tpopt.fullScreen=="on"){tpopt.height=tpopt.bw*tpopt.startheight;var cow=tpopt.container.parent().width();var coh=jQuery(window).height();if(tpopt.fullScreenOffsetContainer!=undefined){try{var offcontainers=tpopt.fullScreenOffsetContainer.split(",");jQuery.each(offcontainers,function(e,t){coh=coh-jQuery(t).outerHeight(true);if(coh<tpopt.minFullScreenHeight)coh=tpopt.minFullScreenHeight})}catch(e){}}tpopt.container.parent().height(coh);tpopt.container.height(coh);tpopt.container.closest(".rev_slider_wrapper").height(coh);tpopt.container.closest(".forcefullwidth_wrapper_tp_banner").find(".tp-fullwidth-forcer").height(coh);tpopt.container.css({height:"100%"});tpopt.height=coh;}else{tpopt.container.height(tpopt.height);tpopt.container.closest(".rev_slider_wrapper").height(tpopt.height);tpopt.container.closest(".forcefullwidth_wrapper_tp_banner").find(".tp-fullwidth-forcer").height(tpopt.height);}
+				};
+
+				/* CALL PLACEHOLDER */
+				setREVStartSize();
+
+
+				var tpj=jQuery;
+				tpj.noConflict();
+				var revapi1;
+
+				tpj(document).ready(function() {
+
+				if(tpj('#rev_slider_1_1').revolution == undefined){
+					revslider_showDoubleJqueryError('#rev_slider_1_1');
+				}else{
+				   revapi1 = tpj('#rev_slider_1_1').show().revolution(
+					{	
+										dottedOverlay:"none",
+						delay:7000,
+						startwidth:1120,
+						startheight:400,
+						hideThumbs:200,
+
+						thumbWidth:100,
+						thumbHeight:50,
+						thumbAmount:5,
+						
+										
+						simplifyAll:"off",
+
+						navigationType:"none",
+						navigationArrows:"solo",
+						navigationStyle:"round",
+
+						touchenabled:"on",
+						onHoverStop:"on",
+						nextSlideOnWindowFocus:"off",
+
+						swipe_threshold: 0.7,
+						swipe_min_touches: 1,
+						drag_block_vertical: false,
+						
+										
+										
+						keyboardNavigation:"off",
+
+						navigationHAlign:"center",
+						navigationVAlign:"bottom",
+						navigationHOffset:0,
+						navigationVOffset:20,
+
+						soloArrowLeftHalign:"left",
+						soloArrowLeftValign:"center",
+						soloArrowLeftHOffset:20,
+						soloArrowLeftVOffset:0,
+
+						soloArrowRightHalign:"right",
+						soloArrowRightValign:"center",
+						soloArrowRightHOffset:20,
+						soloArrowRightVOffset:0,
+
+						shadow:0,
+						fullWidth:"off",
+						fullScreen:"off",
+
+										spinner:"spinner0",
+										
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+
+						shuffle:"off",
+
+						
+						
+						
+						
+						hideTimerBar:"on",
+						hideThumbsOnMobile:"off",
+						hideNavDelayOnMobile:1500,
+						hideBulletsOnMobile:"off",
+						hideArrowsOnMobile:"off",
+						hideThumbsUnderResolution:0,
+
+										hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						startWithSlide:0		});
+
+
+
+									}
+				});	/*ready*/
+
+			</script>
+
+
+			</div><!-- END REVOLUTION SLIDER -->	</div> 
+	
+
+<!-- ============================================== -->
+<!-- PAGE CONTENT COMES NEXT -->
+<!-- ============================================== -->
+
+<!-- ============================================== -->
+
+<!-- Super Container -->
+<div class="super-container main-content-area full-width" id="section-content">
+
+	<!-- 960 Container -->
+	<div class="container">
+
+		<!-- SIDEBAR 2 -->
+				<!-- /SIDEBAR 2 -->
+		
+		<!-- CONTENT -->
+		<div class="content sixteen columns">
+			<div class="content-inner">				
+						
+			<!-- THE POST LOOP -->  
+							
+				<!-- Page Title -->
+				<div class="page-title-breadcrumbs">
+					<h1 class="page-title"><span>Home Page</span></h1>
+										</div>
+				<hr class="page-title-hr" />
+			
+				<!-- Page Caption Section -->
+					
+
+				<!-- THE PAGE CONTENT -->
+				<div class="vc_row wpb_row vc_row-fluid highlight-row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2 style="text-align: center;"><em><span style="color: #000000;">Welcome to CSEDU. The highest echelon of technology and academics.</span></em></h2>
+
+		</div>
+	</div>
+</div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="featured wpb_column vc_column_container vc_col-sm-3"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		<div class="wpb_wrapper">
+			<h2 class="wpb_heading wpb_singleimage_heading">Campus Life</h2>
+			<a href="campus-life/" target="_self"><div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="http://www.cse.du.ac.bd/wp-content/uploads/2013/10/Campus_Life_Icon-50x50.png" width="50" height="50" alt="Campus_Life_Icon" title="Campus_Life_Icon" /></div></a>
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: justify;">The campus life at Dhaka University is full of opportunities and activities to complement the regular academic undertakings along with various services and facilities.</p>
+<p><a href="?page_id=5550">| Read More</a></p>
+
+		</div>
+	</div>
+</div></div><div class="featured wpb_column vc_column_container vc_col-sm-3"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		<div class="wpb_wrapper">
+			<h2 class="wpb_heading wpb_singleimage_heading">Admission</h2>
+			<a href="admission/" target="_self"><div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="http://www.cse.du.ac.bd/wp-content/uploads/2013/10/scholarship1-50x50.png" width="50" height="50" alt="scholarship" title="scholarship" /></div></a>
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: justify;">Whether you are new to CSEDU or are looking for more information on activities of CSEDU, you can find information about admission here.</p>
+<p><a href="http://www.cse.du.ac.bd/?page_id=5615">| Read More</a></p>
+
+		</div>
+	</div>
+</div></div><div class="featured wpb_column vc_column_container vc_col-sm-3"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		<div class="wpb_wrapper">
+			<h2 class="wpb_heading wpb_singleimage_heading">Notice Board</h2>
+			<a href="notice-board/" target="_self"><div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="http://www.cse.du.ac.bd/wp-content/uploads/2013/10/Map-Marker-Push-Pin-1-Right-Pink-icon-50x50.png" width="50" height="50" alt="Map-Marker-Push-Pin-1-Right-Pink-icon" title="Map-Marker-Push-Pin-1-Right-Pink-icon" /></div></a>
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><ul style="list-style-type: square;margin-bottom:15px;"><li><label  style="vertical-align: middle; display:inline-block; width: 85%;    height: 20px;    overflow: hidden;">বিভাগীয় পিকনিক- ২০১৮ সংক্রান্ত বিজ্ঞপ্তি</label><label  style="vertical-align: middle; display:inline-block; overflow: hidden;" style="display:inline-block;">...<label</li><li><label  style="vertical-align: middle; display:inline-block; width: 85%;    height: 20px;    overflow: hidden;">২০১৭-১৮ শিক্ষাবর্ষের সাথে পুনঃভর্তি হতে ইচ্ছুক শিক্ষার্থীদের আবেদনপত্র জমা দেওয়া সংক্রান্ত বিজ্ঞপ্তি</label><label  style="vertical-align: middle; display:inline-block; overflow: hidden;" style="display:inline-block;">...<label</li><li><label  style="vertical-align: middle; display:inline-block; width: 85%;    height: 20px;    overflow: hidden;">Readmission Form</label><label  style="vertical-align: middle; display:inline-block; overflow: hidden;" style="display:inline-block;">...<label</li></ul> <a href="?page_id=5441">| Read More</a></p>
+
+		</div>
+	</div>
+</div></div><div class="featured wpb_column vc_column_container vc_col-sm-3"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		<div class="wpb_wrapper">
+			<h2 class="wpb_heading wpb_singleimage_heading">News &amp; Events</h2>
+			<a href="news-and-events" target="_self"><div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="http://www.cse.du.ac.bd/wp-content/uploads/2013/10/Icon_Calendar1-50x50.png" width="50" height="50" alt="Icon_Calendar" title="Icon_Calendar" /></div></a>
+		</div>
+	</div>
+
+	<div class="wpb_raw_code wpb_raw_js">
+		<div class="wpb_wrapper">
+			<script>
+var counter = 1;
+setInterval(function() 
+{     
+	var sz = document.getElementById(10).value;	
+	document.getElementById((counter % sz)+1).classList.remove('hiddenSlide');
+	document.getElementById((counter % sz)+1).classList.add('showSlide');
+	document.getElementById(((counter+(sz-1)) % sz)+1).classList.remove('showSlide');
+	document.getElementById(((counter+(sz-1)) % sz)+1).classList.add('hiddenSlide');
+	counter++;}, 5000);
+</script>
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div class="showSlide" id = 1><h3 style="margin-bottom: 2px;">Upcoming Events</h3><hr  style="margin-bottom: 2px;"/><label>No Upcoming Events<label><label><label></div><div class="hiddenSlide" id = 2><h3 style="margin-bottom: 2px;">News</h3><hr  style="margin-bottom: 2px;"/><label>Congratulations to Dr. M. Julius Ho...<label><label><b>Date: </b>20 May 2016<label></div><div class="hiddenSlide" id = 3><h3 style="margin-bottom: 2px;">News</h3><hr  style="margin-bottom: 2px;"/><label>Fresher's Week 2016<label><label><b>Date: </b>25 Jan 2016<label></div><div class="hiddenSlide" id = 4><h3 style="margin-bottom: 2px;">News</h3><hr  style="margin-bottom: 2px;"/><label>Seminar on Wireless Communication a...<label><label><b>Date: </b>23 Dec 2015<label></div><input id="10" value="4" style="visibility:hidden;display:block;height:10px;"></input><a href="http://www.cse.du.ac.bd/news-and-events/">| Read More</a></p>
+
+		</div>
+	</div>
+</div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper">
+	<div class="wpb_tabs wpb_content_element  videoleft-textright" data-interval="0">
+		<div class="wpb_wrapper wpb_tour_tabs_wrapper ui-tabs vc_clearfix">
+			<ul class="wpb_tabs_nav ui-tabs-nav vc_clearfix"><li><a href="#tab-1378875435675-3-0">Achievements</a></li><li><a href="#tab-1378873692002-0-10">Clubs</a></li><li><a href="#tab-1378876827621-4-10">Activities</a></li><li><a href="#tab-1436727239829-5-6">Honor Board</a></li><li><a href="#tab-1379454684035-5-10">Student Voice</a></li><li><a href="#tab-1438549314859-7-6">Scholarships</a></li><li><a href="#tab-1379454237863-5-9">Prospective Students</a></li></ul>
+	<div id="tab-1378875435675-3-0" class="wpb_tab ui-tabs-panel wpb_ui-tabs-hide vc_clearfix">
+		<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-8"><div class="wpb_wrapper"><div class="wpb_revslider_element wpb_content_element">
+<div id="rev_slider_21_2_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:#E9E9E9;padding:0px;margin-top:0px;margin-bottom:0px;max-height:450px;">
+<!-- START REVOLUTION SLIDER 4.6.5 fullwidth mode -->
+	<div id="rev_slider_21_2" class="rev_slider fullwidthabanner" style="display:none;max-height:450px;height:450px;">
+<ul>	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://www.cse.du.ac.bd/wp-content/uploads/2013/10/205568_6652938489_8853_n.jpg"  alt="205568_6652938489_8853_n"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption bigwhitemy tp-fade tp-resizeme" 
+			 data-x="center" data-hoffset="0" 
+			 data-y="bottom" data-voffset="-10" 
+			data-speed="300" 
+			data-start="500" 
+			data-easing="Power3.easeInOut" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-elementdelay="0.1" 
+			data-endelementdelay="0.1" 
+			 data-endspeed="300" 
+
+			style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">DU Gryffindor Participating in ACM ICPC World Final 2006 
+		</div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://www.cse.du.ac.bd/wp-content/uploads/2015/08/programming.jpg"  alt="programming"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption bigwhitemy tp-fade tp-resizeme" 
+			 data-x="center" data-hoffset="0" 
+			 data-y="bottom" data-voffset="-10" 
+			data-speed="300" 
+			data-start="500" 
+			data-easing="Power3.easeInOut" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-elementdelay="0.1" 
+			data-endelementdelay="0.1" 
+			 data-endspeed="300" 
+
+			style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">DU Dark Knights Participating in ACM ICPC World Final 2009 
+		</div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://www.cse.du.ac.bd/wp-content/uploads/2015/05/230245_11511218489_4406_n.jpg"  alt="230245_11511218489_4406_n"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption bigwhitemy1 tp-fade tp-resizeme" 
+			 data-x="center" data-hoffset="0" 
+			 data-y="bottom" data-voffset="-10" 
+			data-speed="300" 
+			data-start="500" 
+			data-easing="Power3.easeInOut" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-elementdelay="0.1" 
+			data-endelementdelay="0.1" 
+			 data-endspeed="300" 
+
+			style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Mahmudul Hasan (7th Batch) and Protik Mohammad Hossain (5th Batch) win Gold Medal 
+		</div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://www.cse.du.ac.bd/wp-content/uploads/2015/05/253646_2100604637021_5355087_n.jpg"  alt="253646_2100604637021_5355087_n"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption bigwhitemy tp-fade tp-resizeme" 
+			 data-x="center" data-hoffset="0" 
+			 data-y="bottom" data-voffset="-10" 
+			data-speed="300" 
+			data-start="500" 
+			data-easing="Power3.easeInOut" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-elementdelay="0.1" 
+			data-endelementdelay="0.1" 
+			 data-endspeed="300" 
+
+			style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">DU Resonance win NCPC 2010 at Dhaka University 
+		</div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://www.cse.du.ac.bd/wp-content/uploads/2015/08/software.jpg"  alt="software"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption bigwhitemy tp-fade tp-resizeme" 
+			 data-x="center" data-hoffset="-1" 
+			 data-y="center" data-voffset="140" 
+			data-speed="300" 
+			data-start="500" 
+			data-easing="Power3.easeInOut" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-elementdelay="0.1" 
+			data-endelementdelay="0.1" 
+			 data-endspeed="300" 
+
+			style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Md. Mofijul Islam Akash and Ekram Hossain win National Mobile 
+		</div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption bigwhitemy tp-fade tp-resizeme" 
+			 data-x="center" data-hoffset="0" 
+			 data-y="bottom" data-voffset="-10" 
+			data-speed="300" 
+			data-start="500" 
+			data-easing="Power3.easeInOut" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-elementdelay="0.1" 
+			data-endelementdelay="0.1" 
+			 data-endspeed="300" 
+
+			style="z-index: 6; max-width: auto; max-height: auto; white-space: nowrap;">Application Award 2014-15 
+		</div>
+	</li>
+</ul>
+<div class="tp-bannertimer"></div>	</div>
+			
+
+			<style scoped>.tp-caption.bigwhitemy,.bigwhitemy{font-size:25px;line-height:36px;font-weight:700;font-family:Arial;color:rgb(255,255,255);text-decoration:none;padding:1px 4px 0px;text-shadow:none;margin:0px;letter-spacing:-1.5px;background-color:rgba(0,0,0,0.498039);border-width:0px;border-color:rgb(255,255,255);border-style:none}.tp-caption.bigwhitemy1,.bigwhitemy1{font-size:20px;line-height:36px;font-weight:700;font-family:Arial;color:#ffffff;text-decoration:none;padding:1px 4px 0px 4px;text-shadow:none;margin:0px;letter-spacing:-1.5px;background-color:rgba(0,0,0,0.498039);border-width:0px;border-color:rgb(255,255,255);border-style:none}</style>
+
+			<script type="text/javascript">
+
+				/******************************************
+					-	PREPARE PLACEHOLDER FOR SLIDER	-
+				******************************************/
+				
+
+				var setREVStartSize = function() {
+					var	tpopt = new Object();
+						tpopt.startwidth = 750;
+						tpopt.startheight = 450;
+						tpopt.container = jQuery('#rev_slider_21_2');
+						tpopt.fullScreen = "off";
+						tpopt.forceFullWidth="off";
+
+					tpopt.container.closest(".rev_slider_wrapper").css({height:tpopt.container.height()});tpopt.width=parseInt(tpopt.container.width(),0);tpopt.height=parseInt(tpopt.container.height(),0);tpopt.bw=tpopt.width/tpopt.startwidth;tpopt.bh=tpopt.height/tpopt.startheight;if(tpopt.bh>tpopt.bw)tpopt.bh=tpopt.bw;if(tpopt.bh<tpopt.bw)tpopt.bw=tpopt.bh;if(tpopt.bw<tpopt.bh)tpopt.bh=tpopt.bw;if(tpopt.bh>1){tpopt.bw=1;tpopt.bh=1}if(tpopt.bw>1){tpopt.bw=1;tpopt.bh=1}tpopt.height=Math.round(tpopt.startheight*(tpopt.width/tpopt.startwidth));if(tpopt.height>tpopt.startheight&&tpopt.autoHeight!="on")tpopt.height=tpopt.startheight;if(tpopt.fullScreen=="on"){tpopt.height=tpopt.bw*tpopt.startheight;var cow=tpopt.container.parent().width();var coh=jQuery(window).height();if(tpopt.fullScreenOffsetContainer!=undefined){try{var offcontainers=tpopt.fullScreenOffsetContainer.split(",");jQuery.each(offcontainers,function(e,t){coh=coh-jQuery(t).outerHeight(true);if(coh<tpopt.minFullScreenHeight)coh=tpopt.minFullScreenHeight})}catch(e){}}tpopt.container.parent().height(coh);tpopt.container.height(coh);tpopt.container.closest(".rev_slider_wrapper").height(coh);tpopt.container.closest(".forcefullwidth_wrapper_tp_banner").find(".tp-fullwidth-forcer").height(coh);tpopt.container.css({height:"100%"});tpopt.height=coh;}else{tpopt.container.height(tpopt.height);tpopt.container.closest(".rev_slider_wrapper").height(tpopt.height);tpopt.container.closest(".forcefullwidth_wrapper_tp_banner").find(".tp-fullwidth-forcer").height(tpopt.height);}
+				};
+
+				/* CALL PLACEHOLDER */
+				setREVStartSize();
+
+
+				var tpj=jQuery;
+				tpj.noConflict();
+				var revapi21;
+
+				tpj(document).ready(function() {
+
+				if(tpj('#rev_slider_21_2').revolution == undefined){
+					revslider_showDoubleJqueryError('#rev_slider_21_2');
+				}else{
+				   revapi21 = tpj('#rev_slider_21_2').show().revolution(
+					{	
+										dottedOverlay:"none",
+						delay:6000,
+						startwidth:750,
+						startheight:450,
+						hideThumbs:200,
+
+						thumbWidth:100,
+						thumbHeight:50,
+						thumbAmount:5,
+						
+										
+						simplifyAll:"off",
+
+						navigationType:"none",
+						navigationArrows:"solo",
+						navigationStyle:"round",
+
+						touchenabled:"on",
+						onHoverStop:"on",
+						nextSlideOnWindowFocus:"off",
+
+						swipe_threshold: 75,
+						swipe_min_touches: 1,
+						drag_block_vertical: false,
+						
+										
+										
+						keyboardNavigation:"off",
+
+						navigationHAlign:"center",
+						navigationVAlign:"bottom",
+						navigationHOffset:0,
+						navigationVOffset:20,
+
+						soloArrowLeftHalign:"left",
+						soloArrowLeftValign:"center",
+						soloArrowLeftHOffset:20,
+						soloArrowLeftVOffset:0,
+
+						soloArrowRightHalign:"right",
+						soloArrowRightValign:"center",
+						soloArrowRightHOffset:20,
+						soloArrowRightVOffset:0,
+
+						shadow:1,
+						fullWidth:"on",
+						fullScreen:"off",
+
+										spinner:"spinner3",
+										
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+
+						shuffle:"off",
+
+						autoHeight:"off",
+						forceFullWidth:"off",
+						
+						
+						
+						hideThumbsOnMobile:"off",
+						hideNavDelayOnMobile:1500,
+						hideBulletsOnMobile:"off",
+						hideArrowsOnMobile:"off",
+						hideThumbsUnderResolution:0,
+
+										hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						startWithSlide:0		});
+
+
+
+									}
+				});	/*ready*/
+
+			</script>
+
+
+			<style type="text/css">
+	#rev_slider_21_2_wrapper .tp-loader.spinner3 div { background-color: #FFFFFF !important; }
+</style>
+				<style type="text/css">
+					.rev_slider_wrapper
+{
+border: 0px solid red;
+    padding:3px !important;
+}				</style>
+				</div><!-- END REVOLUTION SLIDER --></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><a href="../">Achievements</a></h2>
+<hr />
+<p style="text-align: justify;">The Department of Computer Science and Engineering is one of the pioneering educational institutions in and outside of the university. The long list of achievements ranging from organization of premium research conferences and programming contests to personal accomplishment attained by the students and faculty members of the department is a strong proof of efficacy and dedication of the department towards achieving higher standard of education and organizational management.</p>
+<p style="text-align: justify;">Achieving educational excellence has always been the department’s primary concern. Nevertheless, the department is also focused on multitudes of supplementary activities including programming contests, sports, cultural extravaganzas and organization of research conferences and seminars. By tradition, the department is consistently improving in pursuit of excellence in these areas through diligence and commitment.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: right;"><span style="color: #ecb200;"><a style="color: #ecb200;" href="?page_id=5892"><strong>Read More</strong></a></span></p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			
+		</div>
+	</div>
+</div></div></div>
+	</div>
+
+	<div id="tab-1378873692002-0-10" class="wpb_tab ui-tabs-panel wpb_ui-tabs-hide vc_clearfix">
+		<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="wpb_wrapper"><div class="wpb_gallery wpb_content_element vc_clearfix"><div class="wpb_wrapper"><div class="wpb_gallery_slides wpb_slider_nivo theme-default" data-interval="3"><div class="nivoSlider"><img class="" src="http://www.cse.du.ac.bd/wp-content/uploads/2015/05/club2_opt-e1443364218975-300x300.jpg" width="300" height="300" alt="Iftar Party" title="Iftar Party" /><img class="" src="http://www.cse.du.ac.bd/wp-content/uploads/2015/05/club3_opt-e1443364208722-300x300.jpg" width="300" height="300" alt="Indoor Games Competition 2014" title="Indoor Games Competition 2014" /><img class="" src="http://www.cse.du.ac.bd/wp-content/uploads/2015/05/club4_opt-e1443364197544-300x300.jpg" width="300" height="300" alt="বর্ষবরণ" title="বর্ষবরণ" /><img class="" src="http://www.cse.du.ac.bd/wp-content/uploads/2015/05/ClubSnippet-6_opt-e1443364182286-300x300.png" width="300" height="300" alt="বর্ষবরণ 1422" title="বর্ষবরণ 1422" /><img class="" src="http://www.cse.du.ac.bd/wp-content/uploads/2015/05/football_opt-e1443364167715-300x300.jpg" width="300" height="300" alt="Inter Department Football Comeptition 2015" title="Inter Department Football Comeptition 2015" /><img class="" src="http://www.cse.du.ac.bd/wp-content/uploads/2015/05/page_opt-e1443364148518.jpg" width="300" height="300" alt="Programming Contest" title="Programming Contest" /></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><a href="../">Clubs</a></h2>
+<hr />
+<p style="text-align: justify;">The Department of Computer Science and Engineering encourages the members of the CSEDU family to be outspoken, innovative and vigorous in both their academic and nonacademic activities. Various clubs with multitudes of activities attest to that mentality. There are various clubs with specific focus in the department. The largest and most active among them is the CSEDU Student Club (CSEDUSC). This club is focused on organizing cultural extravaganzas, indoor sports festivals, technical sessions or talks, philanthropic work and many more.</p>
+<p style="text-align: justify;">Along with the CSEDUSC, there is the CSEDU Programming Contest Club, which focuses on the organization of intra and inter departmental programming contests, programming camps, training for the contestants, etc. This club also holds internal programming contests regularly as practice contests to keep the contestants sharp. There is also the CSEDU Football Club which is formed to oversee all football related activities. The club is especially active during the tournament seasons and takes over to manage the CSEDU football team.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: right;"><span style="color: #ecb200;"><a style="color: #ecb200;" href="http://www.cse.du.ac.bd/clubs/"><strong>Read More</strong></a></span></p>
+
+		</div>
+	</div>
+</div></div></div>
+	</div>
+
+	<div id="tab-1378876827621-4-10" class="wpb_tab ui-tabs-panel wpb_ui-tabs-hide vc_clearfix">
+		<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-8"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="http://www.cse.du.ac.bd/wp-content/uploads/2013/10/contest-520x285.jpg" width="520" height="285" alt="contest" title="contest" /></div>
+		</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><a href="../">Activities</a></h2>
+<hr />
+<p style="text-align: justify;">The Department of Computer Science and Engineering is full of numerous activities all the year round. Besides the regular academic and administrative events, the department organizes and participates in activities ranging from social and cultural extravaganzas to programming and software contests and sports spectacles. Majority of these are organized by the students of the department while some are organized by the university itself or other departments where CSEDU joins in for either competition or general participation. The students are always encouraged to join these activities actively with enthusiasm and vigor.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: right;"><span style="color: #ecb200;"><a style="color: #ecb200;" href="?page_id=6218"><strong>Read More</strong></a></span></p>
+
+		</div>
+	</div>
+</div></div></div>
+	</div>
+
+	<div id="tab-1436727239829-5-6" class="wpb_tab ui-tabs-panel wpb_ui-tabs-hide vc_clearfix">
+		
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div class="wpb_column vc_column_container vc_col-sm-4"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="http://www.cse.du.ac.bd/wp-content/uploads/2017/11/DSC_0142-Copy-339x300.jpg" width="339" height="300" alt="DSC_0142 - Copy" title="DSC_0142 - Copy" /></div>
+		</div>
+	</div>
+ 
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2>CSEDU Ambidexterity Award 2017</h2>
+<hr/>
+<p style="text-align: justify;">CSEDU Ambidexterity Award celebrates excellence in both academic result and programming contest arena. Achieving distinction in both is extremely difficult given the efforts required is humongous.</p>
+<p>Riddho Ridwanul Haque and Nahian Ashraf (Raida) are the winners of this prestigious award for the year 2017. They are the first person ever to win it multiple times. They are both from 21st batch of CSEDU.</p>
+<p>Riddho, currently 1st in his batch, is an excellent problem solver. His team stood 6th in IUT ICT Fest 2017. He is currently in 3rd year. We hope he will continue his journey forward and prosper.</p>
+<p>Nahian, currently 2nd in her batch, is an unique talent. Her team stood 6th in SUST CSE Fest 2017. She is also in 3rd year. We hope, her example will motivate students to reach for a bigger dream.</p>
+
+		</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="http://www.cse.du.ac.bd/wp-content/uploads/2017/06/19251145_1571003056245660_1972039152_n-329x300.jpg" width="329" height="300" alt="19251145_1571003056245660_1972039152_n" title="19251145_1571003056245660_1972039152_n" /></div>
+		</div>
+	</div>
+ 
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2>Sabrina Zaman Ishita</h2>
+<hr/>
+<p style="text-align: justify;">Sabrina Zaman Ishita secured the first position in year 2016 in the BSc (Hons) program securing highest CGPA among her batch with 50+ students. She is grateful to her parents, teachers, friends and all the people who cares about her for every little success she has achieved in life. Her message to her successors is "Don't be good at the things you're told to do, be good at the things you enjoy doing and productive as well".  She plans for higher study abroad in the future. Her goal is to be a prominent researcher.</p>
+<p>Sabrina passed her SSC from Mohammadpur Girls' High School and HSC from Holycross College. She is a student of 19th Batch of CSEDU and currently pursuing MS in the department.</p>
+
+		</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="http://www.cse.du.ac.bd/wp-content/uploads/2017/09/SRR-339x300.jpg" width="339" height="300" alt="SRR" title="SRR" /></div>
+		</div>
+	</div>
+ 
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2>CSEDU Ambidexterity Award 2016</h2>
+<hr/>
+<p style="text-align: justify;">Shahadat Hossain Shahin, Nahian Asharf (Raida) and Riddho Ridwanul Haque (from left to right in the picture) are the three winners of the prestigious "CSEDU Ambidexterity Award" in the year 2016. They are all from CSEDU 21st Batch.</p>
+<p>The award celebrates excellence in both academic arena and programming contests. Such a feat is most difficult to achieve and we congratulate all three of them to achieve such a humongous record.</p>
+<p>Riddho, stood first among his batch for consecutive semesters and also stood 8th in NSU Cybernauts, 2016. He is one the brightest prospect of CSEDU.</p>
+<p>Shahadat, who stood 5th among his batch is one of the most promising contestants. He and Riddho resides in the same team which stood 8th in NSU Cybernauts, 2016. </p>
+<p>Nahian, the first female student to win the award, stood 3rd among her batch. She stood 4th in National Girls Programming Contest (NGPC), 2016. </p>
+<p>The award winners exhibit tremendous talent and perseverance in both academic and competitive programming. They are an inspiration to every student in achieving excellence.</p>
+
+		</div>
+	</div>
+</div></div>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1439318855573">
+		<div class="wpb_wrapper">
+			<p style="text-align: right;"><span style="color: #ecb200;"><a style="color: #ecb200;" href="?page_id=5725"><strong>Read More</strong></a></span></p>
+
+		</div>
+	</div>
+
+	</div>
+
+	<div id="tab-1379454684035-5-10" class="wpb_tab ui-tabs-panel wpb_ui-tabs-hide vc_clearfix">
+		<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="http://www.cse.du.ac.bd/wp-content/uploads/2013/10/11133685_955885684452217_269845966746882462_n-520x378.jpg" width="520" height="378" alt="11133685_955885684452217_269845966746882462_n" title="11133685_955885684452217_269845966746882462_n" /></div>
+		</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span id="fb-timeline-cover-name"><a class="_8_2" href="../">Momontho Mashak Monmoy</a></span></h2>
+<hr />
+<p style="text-align: justify;">My HSC GPA was 4.6. I missed Golden A, by accidentally getting A+ in math. In 2009, more than 18000 HSC examinees got A+ (GPA 5.00), and only around 10,000 positions were available for admission in public Universities and colleges of Bangladesh, and private Universities&#8217; tuition fees were unaffordable for me. Well, I never liked Bangladesh Education Board’s public education system because of many reasons, and I was too passionate about CSE to let their poor grades judge me.</p>
+<p style="text-align: justify;">It was the beginning of the month of February. I can still remember that day, February 1, 2010, our orientation day at CSEDU. I was sitting in the front, excited, thrilled and shy. I was happy and feeling proud being a part of the great family. Later, our first programming class it was, Ashis Sir explaining what “#include&lt;stdio.h&gt; int main{return 0;}” does. I didn’t understand anything. The next day there was this C lab. The problem was to print “\\Hello World//” to console. As far as I can remember, I couldn’t get rid of those stupid compile errors! But, I wanted to learn programming. So I tried and finished all the basics of C in two weeks.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: right;"><span style="color: #ecb200;"><a style="color: #ecb200;" href="?page_id=6382"><strong>Read More</strong></a></span></p>
+
+		</div>
+	</div>
+</div></div></div>
+	</div>
+
+	<div id="tab-1438549314859-7-6" class="wpb_tab ui-tabs-panel wpb_ui-tabs-hide vc_clearfix">
+		<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="http://www.cse.du.ac.bd/wp-content/uploads/2013/10/ignou-scholarship.png" width="460" height="320" alt="ignou-scholarship" title="ignou-scholarship" /></div>
+		</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><a href="../">Scholarships</a></h2>
+<hr />
+<p style="text-align: justify;">Being the largest university of the country, University of Dhaka (DU) provides plenty of scholarship opportunities to the students of the university to acknowledge their merits, hard-works and academic performances. In addition, Department of Computer Science and Engineering, University of Dhaka (CSEDU) too provides ample scholarship opportunities to the students of this department. Currently, four types of scholarships are available at CSEDU.</p>
+<hr />
+<p><strong><a style="color: #ecb200;" href="?page_id=6281#1">1. Hasna Hena Scholarship</a></strong></p>
+<p><strong><a style="color: #ecb200;" href="?page_id=6281#2">2. Dohatec New Media Scholarship</a></strong></p>
+<p><strong><a style="color: #ecb200;" href="?page_id=6281#3">3. Professor Lutfar Rahman Award</a></strong></p>
+<p><strong><a style="color: #ecb200;" href="?page_id=6281#4">4. Chemon Ara-Ahmedullah Merit Scholarship</a></strong></p>
+<p><strong><a style="color: #ecb200;" href="?page_id=6281#5">5. CSEDU Ambidexterity Award</a></strong></p>
+<p><strong><a style="color: #ecb200;" href="?page_id=6281#6">6. Farida Begum Women Empowerment Scholarship</a></strong></p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: right;"><span style="color: #ecb200;"><a style="color: #ecb200;" href="?page_id=6281"><strong>Read More</strong></a></span></p>
+
+		</div>
+	</div>
+</div></div></div>
+	</div>
+
+	<div id="tab-1379454237863-5-9" class="wpb_tab ui-tabs-panel wpb_ui-tabs-hide vc_clearfix">
+		<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="574" height="688" src="http://www.cse.du.ac.bd/wp-content/uploads/2013/10/shutterstock_115335826.jpg" class="vc_single_image-img attachment-full" alt="shutterstock_115335826" srcset="http://www.cse.du.ac.bd/wp-content/uploads/2013/10/shutterstock_115335826-250x300.jpg 250w, http://www.cse.du.ac.bd/wp-content/uploads/2013/10/shutterstock_115335826.jpg 574w" sizes="(max-width: 574px) 100vw, 574px" /></div>
+		</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-5"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><a href="../">Prospective Students</a></h2>
+<hr />
+<p style="text-align: justify;">Whether you are a prospective undergraduate or graduate student, department of Computer Science and Engineering, University of Dhaka (CSEDU) is the place to provide you ample opportunities to build your career.</p>
+<p style="text-align: justify;">Welcome to CSEDU. This is our utmost pleasure for considering CSEDU as your possible study. We believe CSEDU offers some of the best academic and student-services programs. Our undergraduate program is accomplished with the best science-oriented students of the country, while the graduate programs encompass one of the best research facilities among the CSE departments in the country.</p>
+<p style="text-align: justify;">Here we provide the links of some basic information that may guide you to be confident about selecting the department for your imminent study.</p>
+
+		</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><a href="../">Useful Links</a></h2>
+<hr />
+<p style="text-align: justify;"><span style="color: #ecb200;"><strong><a style="color: #ecb200;" href="?page_id=4815">About CSEDU</a></strong></span></p>
+<p><span style="color: #ecb200;"><strong><a style="color: #ecb200;" href="?page_id=4815#whyincsedu">Why CSEDU?</a></strong></span></p>
+<p><span style="color: #ecb200;"><strong><a style="color: #ecb200;" href="?page_id=5822">Resources in CSEDU</a></strong></span></p>
+<p><span style="color: #ecb200;"><strong><a style="color: #ecb200;" href="?page_id=5892">Achievements of CSEDU</a></strong></span></p>
+<p><span style="color: #ecb200;"><strong><a style="color: #ecb200;" href="?page_id=6596">Research in CSEDU</a></strong></span></p>
+<hr />
+<p><span style="color: #ecb200;"><strong><a style="color: #ecb200;" href="?page_id=5615#hons">Undergraduate Admission</a></strong></span></p>
+<p><strong><a style="color: #ecb200;" href="?page_id=5759">Undergraduate Program</a></strong></p>
+<p><strong><a style="color: #ecb200;" href="?page_id=5615#ms">Graduate Admission</a></strong></p>
+<p><strong><a style="color: #ecb200;" href="?page_id=5765">Graduate Program</a></strong></p>
+
+		</div>
+	</div>
+</div></div></div>
+	</div>
+
+		</div>
+	</div>
+</div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			
+		</div>
+	</div>
+</div></div></div>
+						
+				<!-- PAGINATION for Multiple pages -->
+								
+				
+				<!-- COMMENTS SECTION -->
+				<hr />
+					<div id="comments">
+	
+	
+	
+	
+</div><!-- #comments -->
+ 
+				<div class="hidden"></div>
+								<div class="hidden">	<div id="comments">
+	
+	
+	
+	
+</div><!-- #comments -->
+</div>
+				<!-- COMMENTS-SECTION -->
+				
+				
+				
+			
+			</div>
+		</div>
+		<!-- /CONTENT -->
+		
+		<!-- ============================================== -->
+		
+		<!-- SIDEBAR -->
+				<!-- /SIDEBAR -->		
+		
+	</div>
+	<!-- /End 960 Container -->
+	
+</div>
+<!-- /End Super Container -->
+
+
+<!-- ============================================== -->
+
+
+<!-- ============================================== -->
+
+
+<!-- Super Container | Footer Widget Space (Optional) -->
+
+	 
+
+<div class="super-container full-width" id="section-footer">
+
+	<!-- 960 Container -->
+	<div class="container">
+		<!-- footer -->
+		<footer>
+			<div class="sixteen columns alpha omega" id="footer-row"> 
+				<div class="four columns">
+				<div id="text-2" class="widget widget_text"><h2 class="footer-widget-title">Campus Map</h2>			<div class="textwidget"><hr>
+<div class="wpb_gmaps_widget wpb_content_element">
+	<div class="wpb_wrapper">
+	<div class="wpb_map_wraper">
+		<iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d913.1296828475806!2d90.3991466!3d23.728874599999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8ef3965e60b%3A0xf374307f9516475f!2sDept+of+Computer+Science+and+Engineering%2C+University+of+Dhaka%2C+Science+Complex%2C+Suhrawardi+Udyan+Rd%2C+Dhaka!5e0!3m2!1sen!2sbd!4v1430243938493&amp;t=m&amp;z=14&amp;output=embed"></iframe>	</div>
+	</div>
+	</div>
+
+Click here for an <a href="https://goo.gl/maps/BhGkG">expanded view</a>.</div>
+		</div>				</div>
+				<div class="four columns">
+				<div id="text-3" class="widget widget_text"><h2 class="footer-widget-title">New To Campus?</h2>			<div class="textwidget"><hr>
+<a href="http://www.du.ac.bd/" target="_blank">&#8226; University of Dhaka Official Website</a>
+<hr style="height:20px; visibility:hidden;" />
+<a href="http://www.du.ac.bd/main_menu/academic/facengg" target="_blank">&#8226; Faculty of Engineering and Technology</a>
+<hr style="height:20px; visibility:hidden;" />
+<a href="http://www.du.ac.bd/home/hall_admin/hall" target="_blank">&#8226; Residential Halls</a>
+<hr style="height:20px; visibility:hidden;" />
+<a href="http://admission.eis.du.ac.bd/" target="_blank">&#8226; Admission in University of Dhaka</a>
+<hr style="height:20px; visibility:hidden;" />
+<a href="http://www.du.ac.bd/facilities.php" target="_blank">&#8226; Health Service and Other Facilities</a>
+<hr style="height:20px; visibility:hidden;" />
+<a href="http://www.dmc.edu.bd/index.php" target="_blank">&#8226; Dhaka Medical College and Hospital</a>
+<hr style="height:20px; visibility:hidden;" />
+<a href="http://www.du.ac.bd/tsc.php" target="_blank">&#8226; Teachers and Students Center (TSC)</a>
+<hr style="height:20px; visibility:hidden;" />
+<a href="http://www.banglaacademy.org.bd/" target="_blank">&#8226; Bangla Academy</a>
+<hr style="height:20px; visibility:hidden;" />
+<a href="http://bangladeshmuseum.gov.bd/site/" target="_blank">&#8226; Bangladesh National Museum</a>
+</div>
+		</div>				</div>
+				<div class="four columns">
+				<div id="text-4" class="widget widget_text"><h2 class="footer-widget-title">Student Statistics</h2>			<div class="textwidget"><hr>
+<a>Our department enjoys a rich and thriving student experience. Here are some quick statistics and student numbers. </a>
+<p></p>
+<div class="vc_progress_bar wpb_content_element  vc_progress-bar-color-bar_blue"><div class="vc_general vc_single_bar"><small class="vc_label">Students Graduating With B.Sc Degree</small><span class="vc_bar animated striped" data-percentage-value="65" data-value="65"></span></div><div class="vc_general vc_single_bar"><small class="vc_label">Female Graduates With B.Sc Degree</small><span class="vc_bar animated striped" data-percentage-value="26" data-value="26"></span></div><div class="vc_general vc_single_bar"><small class="vc_label">Male Graduates With B.Sc Degree</small><span class="vc_bar animated striped" data-percentage-value="74" data-value="74"></span></div><div class="vc_general vc_single_bar"><small class="vc_label">Graduates with B.Sc & MS Degrees</small><span class="vc_bar animated striped" data-percentage-value="24" data-value="24"></span></div></div></div>
+		</div>				</div>
+				<div class="four columns">
+				<div id="text-5" class="widget widget_text"><h2 class="footer-widget-title">Contact Information</h2>			<div class="textwidget"><hr/>
+<a>Department of Computer Science and Engineering</a></br>
+<a>Science Complex</a></br>
+<a>University of Dhaka, Dhaka – 1000</a></br>
+<a>Tel: +880 2 9670734</a></br>
+<a>PABX: +880 2 9661920-70, Ext. 7421</a></br>
+<a href="mailto: office@cse.du.ac.bd">Email: office@cse.du.ac.bd</a></br>
+<br/>
+<a href="http://www.cse.du.ac.bd/contact-us"><b>Contact Us | Feedback and Inquiry</b></a>
+
+</div>
+		</div>				</div>
+			</div>
+		</footer>
+		<!-- /End Footer -->
+
+	</div>
+	<!-- /End 960 Container -->
+</div>
+<!-- /End Super Container -->
+
+
+<!-- ============================================== -->
+
+
+<!-- Super Container - SubFooter Space -->
+<div class="super-container full-width" id="section-sub-footer">
+
+<!-- 960 Container -->
+<div class="container">
+
+	<div class="sixteen columns">
+		<div class="copyright twelve columns alpha"></div>
+		
+
+
+
+
+
+
+<div class="colophon"> 
+			<div style="width: 50%;margin: 0px auto; margin-bottom: 5px; text-align: center;">
+				<text style="font-weight:bold;color:#666;display:inline-block;vertical-align: middle;">Best Viewed In
+				</text>
+				<a href="http://www.google.com.bd/chrome/"><img style="/* float:right; */ /* display:inline-block; */ width: 4%; height:auto; padding-left:1%;vertical-align: middle;" src="http://www.cse.du.ac.bd/wp-content/uploads/2015/08/chrome.ico">
+				</a>
+			</div>
+			<div style="text-align:center;width:52%;margin:0px auto;">
+<text style="color:#666; font-size:90%; display:block;line-height:110%">© 2015 Department of Computer Science and Engineering, University of Dhaka, Dhaka, Bangladesh<br>
+Contact <a href="mailto:webmaster@cse.du.ac.bd" style="color: #666;text-decoration: underline;">webmaster@cse.du.ac.bd</a> or visit <a href="http://www.cse.du.ac.bd/contact-us" style="color: #666;text-decoration: underline;">Contact Us</a> with questions or comments on this site.</text>
+<a style="color:#ECB200; font-size:90%;" href="http://www.cse.du.ac.bd/credits">[Credits]</a>
+</div></div>
+	</div>
+
+</div>
+<!-- /End 960 Container -->
+</div>
+<!-- /End Super Container -->
+
+
+<!-- ============================================== -->
+
+
+<link rel='stylesheet' id='nivo-slider-css-css'  href='http://www.cse.du.ac.bd/wp-content/plugins/js_composer/assets/lib/bower/nivoslider/nivo-slider.css?ver=4.7.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='nivo-slider-theme-css'  href='http://www.cse.du.ac.bd/wp-content/plugins/js_composer/assets/lib/bower/nivoslider/themes/default/default.css?ver=4.7.4' type='text/css' media='screen' />
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-content/themes/campus/assets/javascripts/isotope/jquery.isotope.js'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-content/themes/campus/assets/javascripts/isotope/modernizr.custom.69142.js'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-content/themes/campus/assets/javascripts/superfish/jquery.hoverIntent.js'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-content/themes/campus/assets/javascripts/superfish/superfish.js'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-content/themes/campus/assets/javascripts/superfish/supersubs.js'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-content/themes/campus/assets/javascripts/mobilemenu/js/modernizr.custom.js'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-content/themes/campus/assets/javascripts/mobilemenu/js/jquery.dlmenu.js'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-content/themes/campus/assets/javascripts/skeleton-key.js'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.cse.du.ac.bd\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-content/plugins/dynamic-to-top/js/libs/jquery.easing.js?ver=1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mv_dynamic_to_top = {"text":"To Top","version":"0","min":"300","speed":"1100","easing":"easeOutBounce","margin":"20"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-content/plugins/dynamic-to-top/js/dynamic.to.top.min.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-includes/js/wp-embed.min.js?ver=4.4.14'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-content/plugins/js_composer/assets/js/js_composer_front.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-content/plugins/js_composer/assets/lib/bower/jquery-ui-tabs-rotate/jquery-ui-tabs-rotate.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-content/plugins/js_composer/assets/lib/bower/nivoslider/jquery.nivo.slider.pack.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://www.cse.du.ac.bd/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?ver=4.7.4'></script>
+</body>
+</html>Connection closed by foreign host.
+

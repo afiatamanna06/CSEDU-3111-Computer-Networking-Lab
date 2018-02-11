@@ -1,0 +1,23 @@
+telnet www.cse.du.ac.bd 80
+Trying 172.16.1.50...
+Connected to www.cse.du.ac.bd.
+Escape character is '^]'.
+HEAD / HTTP / 1.1
+host:www.cse.du.ac.bd
+
+HTTP/1.0 200 OK
+Date: Mon, 05 Feb 2018 10:26:31 GMT
+Server: Apache/2.2.15 (Oracle)
+X-Powered-By: PHP/5.3.3
+Set-Cookie: PHPSESSID=cdjlpda7dh534mvjtf547svng0; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Link: <http://www.cse.du.ac.bd/wp-json/>; rel="https://api.w.org/"
+Link: <http://www.cse.du.ac.bd/>; rel=shortlink
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+Connection closed by foreign host.
+

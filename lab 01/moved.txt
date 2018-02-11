@@ -1,0 +1,24 @@
+ telnet www.cse.du.ac.bd 80
+Trying 172.16.1.50...
+Connected to www.cse.du.ac.bd.
+Escape character is '^]'.
+GET / HTTP/1.1
+host: www.cse.univdhaka.edu
+
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 05 Feb 2018 10:32:15 GMT
+Server: Apache/2.2.15 (Oracle)
+Location: http://www.cse.du.ac.bd/
+Content-Length: 319
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.cse.du.ac.bd/">here</a>.</p>
+<hr>
+<address>Apache/2.2.15 (Oracle) Server at www.cse.univdhaka.edu Port 80</address>
+</body></html>
+
