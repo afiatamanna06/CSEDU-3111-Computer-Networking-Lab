@@ -1,0 +1,88 @@
+cse.du.ac.bd
+
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name
+tcp        0      0 172.16.5.216:46326      172.16.1.50:80          ESTABLISHED 4259/telnet  
+
+iit.du.ac.bd
+
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name
+tcp        0      0 172.16.5.216:40136      103.221.253.162:80      ESTABLISHED 4276/telnet
+
+
+microsoft.com
+
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name
+tcp        0      0 172.16.5.216:54164      23.96.52.53:80          ESTABLISHED 4340/telnet 
+
+cnn.com
+
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name
+tcp        0      0 172.16.5.216:60378      151.101.1.67:80         ESTABLISHED 4345/telnet 
+
+
+
+
+
+
+
+nslookup cse.du.ac.bd
+Server:		127.0.1.1
+Address:	127.0.1.1#53
+
+Name:	cse.du.ac.bd
+Address: 172.16.1.50
+
+
+nslookup -type=NS cse.du.ac.bd
+Server:		127.0.1.1
+Address:	127.0.1.1#53
+
+cse.du.ac.bd	nameserver = aws.cse.du.ac.bd.
+cse.du.ac.bd	nameserver = srv05.cse.univdhaka.edu.
+
+
+
+nslookup -type=A  aws.cse.du.ac.bd
+Server:		127.0.1.1
+Address:	127.0.1.1#53
+
+Name:	aws.cse.du.ac.bd
+Address: 34.203.200.125
+
+
+
+nslookup -type=A srv05.cse.univdhaka.edu
+Server:		127.0.1.1
+Address:	127.0.1.1#53
+
+Name:	srv05.cse.univdhaka.edu
+Address: 103.221.254.42
+
+
+nslookup -type=NS www.mit.edu
+Server:		127.0.1.1
+Address:	127.0.1.1#53
+
+Non-authoritative answer:
+www.mit.edu	canonical name = www.mit.edu.edgekey.net.
+www.mit.edu.edgekey.net	canonical name = e9566.dscb.akamaiedge.net.
+
+Authoritative answers can be found from:
+dscb.akamaiedge.net
+	origin = n0dscb.akamaiedge.net
+	mail addr = hostmaster.akamai.com
+	serial = 1519100764
+	refresh = 1000
+	retry = 1000
+	expire = 1000
+	minimum = 1800
+
+
+
+
+
+
+
