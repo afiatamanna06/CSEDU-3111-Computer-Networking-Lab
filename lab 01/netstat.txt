@@ -1,0 +1,263 @@
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp      454      0 172.16.5.216:37608      172.217.24.78:443       CLOSE_WAIT 
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+tcp      454      0 172.16.5.216:37614      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37606      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37612      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37610      172.217.24.78:443       CLOSE_WAIT 
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp      454      0 172.16.5.216:37608      172.217.24.78:443       CLOSE_WAIT 
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+tcp      454      0 172.16.5.216:37614      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37606      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37612      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37610      172.217.24.78:443       CLOSE_WAIT 
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp      454      0 172.16.5.216:37608      172.217.24.78:443       CLOSE_WAIT 
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+tcp      454      0 172.16.5.216:37614      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37606      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37612      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37610      172.217.24.78:443       CLOSE_WAIT 
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp      454      0 172.16.5.216:37608      172.217.24.78:443       CLOSE_WAIT 
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+tcp      454      0 172.16.5.216:37614      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37606      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37612      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37610      172.217.24.78:443       CLOSE_WAIT 
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp      454      0 172.16.5.216:37608      172.217.24.78:443       CLOSE_WAIT 
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+tcp      454      0 172.16.5.216:37614      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37606      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37612      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37610      172.217.24.78:443       CLOSE_WAIT 
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp      454      0 172.16.5.216:37608      172.217.24.78:443       CLOSE_WAIT 
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+tcp      454      0 172.16.5.216:37614      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37606      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37612      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37610      172.217.24.78:443       CLOSE_WAIT 
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp      454      0 172.16.5.216:37608      172.217.24.78:443       CLOSE_WAIT 
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+tcp      454      0 172.16.5.216:37614      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37606      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37612      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37610      172.217.24.78:443       CLOSE_WAIT 
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp      454      0 172.16.5.216:37608      172.217.24.78:443       CLOSE_WAIT 
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+tcp      454      0 172.16.5.216:37614      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37606      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37612      172.217.24.78:443       CLOSE_WAIT 
+tcp      454      0 172.16.5.216:37610      172.217.24.78:443       CLOSE_WAIT 
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+tcp        0      0 172.16.5.216:35114      129.215.17.244:21       ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+tcp        0      0 172.16.5.216:35114      129.215.17.244:21       ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+tcp        0      0 172.16.5.216:35114      129.215.17.244:21       ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+tcp        0      0 172.16.5.216:35114      129.215.17.244:21       ESTABLISHED
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 172.16.5.216:47170      172.16.5.222:139        ESTABLISHED
+tcp        0      0 172.16.5.216:35114      129.215.17.244:21       ESTABLISHED
+
