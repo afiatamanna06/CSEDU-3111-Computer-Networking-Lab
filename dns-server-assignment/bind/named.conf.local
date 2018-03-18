@@ -1,0 +1,20 @@
+//
+// Do any local configuration here
+//
+
+// Consider adding the 1918 zones here, if they are not used in your
+// organization
+//include "/etc/bind/zones.rfc1918";
+
+	zone "tanvir.com" {
+	type master;
+	file "/etc/bind/db.forward.com";
+	allow-transfer { 127.0.0.4; };
+	};
+	
+	zone "0.0.127.in-addr.arpa" {
+	type master;
+	notify no;
+	file "/etc/bind/db.reverse.com";
+	allow-transfer { 127.0.0.4; };
+	};
